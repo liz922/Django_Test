@@ -1,0 +1,139 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Sep 22 17:13:21 2013
+;; Desktop file format version 206
+;; Emacs version 24.1.50.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("comp"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/mysite/mysite/" "~/mysite/mysite/view.py" "~/mysite" "~/mysite/mysite/" "~/mysite/mysite/view.py" "~/mysite" "~/mysite1/" "~/prog/Java/search/binarySearchApp.java" "~/prog/Java/search/doubleHashApp.java" "~/prog/Java/search/binarySearchApp.java" "~/prog/Java/search/doubleHashApp.java" "~/prog/Java/search/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/Derek/mysite/mysite/view.py"
+  "view.py"
+  'python-mode
+  '(autopair-mode auto-complete-mode linum-mode)
+  208
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "mysite<2>"
+  'dired-mode
+  '(linum-mode)
+  176
+  '(nil nil)
+  t
+  '("/Users/Derek/mysite/mysite/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "mysite"
+  'dired-mode
+  '(linum-mode)
+  281
+  '(nil nil)
+  t
+  '("/Users/Derek/mysite/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/Derek/mysite/mysite/urls.py"
+  "urls.py<2>"
+  'python-mode
+  '(autopair-mode auto-complete-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "mysite1"
+  'dired-mode
+  '(linum-mode)
+  350
+  '(350 nil)
+  t
+  '("/Users/Derek/mysite1/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/Derek/mysite1/mysite1/urls.py"
+  "urls.py"
+  'python-mode
+  '(autopair-mode auto-complete-mode linum-mode)
+  560
+  '(560 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "mysite1<2>"
+  'dired-mode
+  '(linum-mode)
+  409
+  '(nil nil)
+  t
+  '("/Users/Derek/mysite1/mysite1/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/Derek/mysite1/mysite1/settings.py"
+  "settings.py"
+  'python-mode
+  '(autopair-mode auto-complete-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/Derek/prog/Java/search/doubleHashApp.java"
+  "doubleHashApp.java"
+  'java-mode
+  '(abbrev-mode autopair-mode auto-complete-mode linum-mode)
+  2023
+  '(1748 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/Derek/prog/Java/search/binarySearchApp.java"
+  "binarySearchApp.java"
+  'java-mode
+  '(abbrev-mode autopair-mode auto-complete-mode linum-mode)
+  904
+  '(677 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "search"
+  'dired-mode
+  '(linum-mode)
+  423
+  '(nil nil)
+  t
+  '("/Users/Derek/prog/Java/search/")
+  nil)
+
